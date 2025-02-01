@@ -1,0 +1,6 @@
+requests
+fastapi
+user_agent
+uuid
+string
+uvicorn
